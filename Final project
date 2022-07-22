@@ -1,0 +1,1696 @@
+*Main Website
+
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="author" content="Final project">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+
+    <title>Liberty NFT Marketplace - HTML CSS Template</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+
+    <!-- Additional CSS Files -->
+    <link rel="stylesheet" href="assets/css/fontawesome.css">
+    <link rel="stylesheet" href="assets/css/templatemo-liberty-market.css">
+    <link rel="stylesheet" href="assets/css/owl.css">
+    <link rel="stylesheet" href="assets/css/animate.css">
+    <link rel="stylesheet"href="https://unpkg.com/swiper@7/swiper-bundle.min.css"/>
+<!--
+
+TemplateMo 577 Liberty Market
+
+https://templatemo.com/tm-577-liberty-market
+
+-->
+  </head>
+
+<body>
+
+  <!-- ***** Preloader Start ***** -->
+  <div id="js-preloader" class="js-preloader">
+    <div class="preloader-inner">
+      <span class="dot"></span>
+      <div class="dots">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </div>
+  </div>
+  <!-- ***** Preloader End ***** -->
+
+  <!-- ***** Header Area Start ***** -->
+  <header class="header-area header-sticky">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <nav class="main-nav">
+                    
+                
+                    <!-- ***** Menu Start ***** -->
+                    <ul class="nav">
+                        <li><a href="index.html" class="active">Home</a></li>
+                        <li><a href="act2.html">ACT 2</a></li>
+                        <li><a href="act 3/act3.html">ACT 3</a></li>
+                        <li><a href="Act 4/act4.html">ACT 4</a></li>
+                        <li><a href="Act 5/act5.html">ACT 5</a></li>
+                    </ul>   
+                    <a class='menu-trigger'>
+                        <span>Menu</span>
+                    </a>
+                    <!-- ***** Menu End ***** -->
+                </nav>
+            </div>
+        </div>
+    </div>
+  </header>
+  <!-- ***** Header Area End ***** -->
+
+  <!-- ***** Main Banner Area Start ***** -->
+  <div class="main-banner">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6 align-self-center">
+          <div class="header-text">
+            <h6>My Final Project</h6>
+            <h2>Rexelle A. Salera</h2>
+            <p>Thank you for teaching html Information, Processing and Technology to us IT sophomores. You're the best teacher.
+            </p>
+            <div class="buttons">
+              <div class="border-button">
+                <a href="https://www.facebook.com/rexelle.salera">My Facebook</a>
+              </div>
+              <div class="main-button">
+                <a href="https://www.youtube.com/channel/UCxkI8ntknHu5wpNE1AnZLiA" target="_blank">Watch My Videos</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-5 offset-lg-1">
+          <div class="owl-banner owl-carousel">
+            <div class="item">
+              <img src="Chock.jpg" alt="">
+            </div>
+            <div class="item">
+              <img src="tan.webp" alt="">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- ***** Main Banner Area End ***** -->
+  
+ 
+
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <p>Rexelle Salera BSIT - 2E / <a href="#">Homes</a>
+          &nbsp;&nbsp;
+        </div>
+      </div>
+    </div>
+  </footer>
+
+
+  <!-- Scripts -->
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+  <script src="assets/js/isotope.min.js"></script>
+  <script src="assets/js/owl-carousel.js"></script>
+  <script src="assets/js/wow.js"></script>
+  <script src="assets/js/tabs.js"></script>
+  <script src="assets/js/popup.js"></script>
+  <script src="assets/js/custom.js"></script>
+
+  </body>
+</html>
+
+
+*Act 2
+<!DOCTYPE html>
+<html>
+<head>
+<STYle>
+body {
+    background-image:url('IT.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}</STYle>
+</head>
+<body>
+
+    
+<center>
+<h1 border-style: solid; border-color:olivedrab;> MY SECOND ACTIVITY </h1>
+<hr>
+<p> Good Day! let's try <b> THE HTML PRACTICE </b></p>
+<hr>
+<h3 style="color:red"><u> Twitter </u></h3>
+<p style="color:red;"> Ito ay isang online news at social networking service kung saan ang mga user ay nag-popost at nag-iinterak gamit ang mga mensahe.</p>
+
+<h3 style="color:yellow;"><u> Youtube </u></h3>
+<p style="color:yellow;"> Ang kahalagahan ng youtube ay ito ang nagbibigay kasiyahan sa tao, napapanood natin ang mga gusto natin panoorin at napapanood din natin ang idol natin mga vlogger at gamer.</p>
+
+<h3 style="color:blue;"><u> Google </u></h3>
+<p style="color:blue;"> Mahalaga ito sa mga estudyante sapagkat napapadali nito ang pagsasaliksik ng mga datos at impormasyon na kinakailangan nila para sa kanilang aralin.</p>
+
+<h3 style="color:pink;"><u> Facebook </u></h3>
+<p style="color:pink;"> Sa pamamagitan ng facebook, nakakahanap at nakakalikha rin tayo ng mga bagong tao na siyang nagiging bagong kaibigan natin sa paglipas ng panahon. Mabilis ang pagshare at pagpost ng mga tanong at damdamin na mayroon tayo.</p>
+
+<h3 style="color:Green;"><u> Gmail </u></h3>
+<p style="color:Green;"> Ito ay free service provided galing sa GOOGLE sa kung sino man mayroon nito ay maaring makapag send at makatanggap ng mensahe sa pamamagitan ng internet.</p>
+
+<table table border="1px solid"style="width:50%">
+<tr>
+<th rowspan="6"> BROWSER </th>
+<th colspan="2"style="text-align:center"> APPLICATION </th>
+<th style="text-align:center"> WEBSITE </th>
+<th style="text-align:center"> LIN </th>
+</tr>
+
+</tr>
+</tr>
+<tr>
+<td> Mozilla </td>
+<td> Opera </td>
+<td> Twitter </td>
+<td><a href="https://twitter.com/"target="_blank">https://twitter.com/</a></td>
+
+</tr>
+<tr>
+<td> Mozilla </td>
+<td> Opera </td>
+<td> Youtube </td>
+<td><a href="https://www.youtube.com/"target="_blank">https://www.youtube.com/</a></td>
+
+</tr>
+<tr>
+<td> Mozilla </td>
+<td> Opera </td>
+<td> Google </td>
+<td><a href="https://www.google.com/"target="_blank">https://www.google.com/</a></td>
+
+</tr>
+<tr>
+<td> Mozilla </td>
+<td> Opera </td>
+<td> Facebook </td>
+<td><a href="https://www.facebook.com/"target="_blank">https://www.facebook.com/</a></td>
+
+</tr>
+<tr>
+<td> Mozilla </td>
+<td> Opera </td>
+<td> Gmail </td>
+<td><a href="https://gmail.com/"target="_blank">https://gmail.com/</a></td>
+
+</tr>
+</table>
+</div>
+</center>
+</body>
+</html>
+
+
+*Act 3
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body {
+                background-image:url('IT.jpg');
+                background-repeat: no-repeat;
+                background-attachment: fixed;
+                background-size: cover;
+            }
+            mark {
+                background-color: white;
+            }
+
+            </style>
+            </head>
+            <body>
+                <center>
+                    <h1 border-style: solid; border-color:gray><mark> MY THIRD ACTIVITY </mark></h1>
+                    <hr>
+                    <p><mark> Good Day! Let's try <b> THE HTML PRACTICE </mark><br><p>
+                    <hr>
+                    <h3 style="color: red;"> Twitter </u></h3>
+                    <a href="https://twitter.com/"><img src="download.png" alt="https://twitter.com/" width="200" height="200"></a>
+                    <p style="color: red;"><mark>  Ito ay isang online news at social networking service kung saan ang mga user ay nag-popost at nag-iinterak gamit ang mga mensahe.</p></mark>
+                    
+                    <h3 style="color: yellow;"> Youtube </u></h3>
+                    <a href="https://www.youtube.com/"><img src="download1.png" alt="https://www.youtube.com/" width="200" height="200"></a>
+                    <p style="color: yellow;"><mark> Ang kahalagahan ng youtube ay ito ang nagbibigay kasiyahan sa tao, napapanood natin ang mga gusto natin panoorin at napapanood din natin ang idol natin mga vlogger at gamer.</p></mark>
+
+                    <h3 style="color: blue;"> Google </u></h3>
+                    <a href="https://www.google.com/"><img src="download2.png" alt="https://www.google.com/" width="200" height="200"></a>
+                    <p style="color: blue;"><mark> Mahalaga ito sa mga estudyante sapagkat napapadali nito ang pagsasaliksik ng mga datos at impormasyon na kinakailangan nila para sa kanilang aralin.</p></mark>
+
+                    <h3 style="color: pink;"> Facebook </u></h3>
+                    <a href="https://www.facebook.com/"><img src="download3.png" alt="https://www.facebook.com/" width="200" height="200"></a>
+                    <p style="color: pink;"><mark> Sa pamamagitan ng facebook, nakakahanap at nakakalikha rin tayo ng mga bagong tao na siyang nagiging bagong kaibigan natin sa paglipas ng panahon. Mabilis ang pagshare at pagpost ng mga tanong at damdamin na mayroon tayo.</p></mark>
+                    
+                    <h3 style="color: green;"> Gmail </u></h3>
+                    <a href="https://gmail.com/"><img src="download4.png" alt="https://gmail.com/" width="200" height="200"></a>
+                    <p style="color: green;"><mark> Ito ay free service provided galing sa GOOGLE sa kung sino man mayroon nito ay maaring makapag send at makatanggap ng mensahe sa pamamagitan ng internet.</p></mark>
+
+</center>
+</body>
+</html>
+
+*Act 4 Home
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <style> 
+            body {
+                background-image:url('IT.jpg');
+                background-repeat: no-repeat;
+                background-attachment: fixed;
+                background-size: cover;
+            }
+            mark {
+                background-color: white;
+            }
+
+            </style>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+            </head>
+            <body>
+                <center>
+                    <h1 border-style: solid; border-color:gray><mark> MY FOURTH ACTIVITY </mark></h1>
+                    <hr>
+                    <p><mark> Good Day! Let's try <b> THE HTML PRACTICE </mark><br><p>
+                    <hr>
+                    <h3 style="color: red;"> Twitter </u></h3>
+                    <a href="https://twitter.com/"><img src="download.png" alt="https://twitter.com/" width="200" height="200"></a>
+                    <p style="color: red;"><mark>  Ito ay isang online news at social networking service kung saan ang mga user ay nag-popost at nag-iinterak gamit ang mga mensahe.</p></mark>
+                    
+                    <h3 style="color: yellow;"> Youtube </u></h3>
+                    <a href="https://www.youtube.com/"><img src="download1.png" alt="https://www.youtube.com/" width="200" height="200"></a>
+                    <p style="color: yellow;"><mark> Ang kahalagahan ng youtube ay ito ang nagbibigay kasiyahan sa tao, napapanood natin ang mga gusto natin panoorin at napapanood din natin ang idol natin mga vlogger at gamer.</p></mark>
+
+                    <h3 style="color: blue;"> Google </u></h3>
+                    <a href="https://www.google.com/"><img src="download2.png" alt="https://www.google.com/" width="200" height="200"></a>
+                    <p style="color: blue;"><mark> Mahalaga ito sa mga estudyante sapagkat napapadali nito ang pagsasaliksik ng mga datos at impormasyon na kinakailangan nila para sa kanilang aralin.</p></mark>
+
+                    <h3 style="color: pink;"> Facebook </u></h3>
+                    <a href="https://www.facebook.com/"><img src="download3.png" alt="https://www.facebook.com/" width="200" height="200"></a>
+                    <p style="color: pink;"><mark> Sa pamamagitan ng facebook, nakakahanap at nakakalikha rin tayo ng mga bagong tao na siyang nagiging bagong kaibigan natin sa paglipas ng panahon. Mabilis ang pagshare at pagpost ng mga tanong at damdamin na mayroon tayo.</p></mark>
+                    
+                    <h3 style="color: green;"> Gmail </u></h3>
+                    <a href="https://gmail.com/"><img src="download4.png" alt="https://gmail.com/" width="200" height="200"></a>
+                    <p style="color: green;"><mark> Ito ay free service provided galing sa GOOGLE sa kung sino man mayroon nito ay maaring makapag send at makatanggap ng mensahe sa pamamagitan ng internet.</p></mark>
+
+                    <button class="btn" onclick="document.location='home.html'"><i class="fa fa-home">Home</1></button>
+                    </center>
+                    </body>
+                    </html>
+                    
+  *Menu
+  
+  <!DOCTYPE html>
+<html lang="en">
+        <tittle> act4 </tittle>
+</head>
+        <center>
+            <hr />
+            <h1> MENU </h1>
+            <hr />
+        </center>
+
+        <style>
+            body{
+                background-image: url("bk.jpg");
+                background-repeat: no-repeat;
+                background-attachment: fixed;
+                background-size: cover;
+                opacity: 10px;
+            }
+
+            h1 {
+                border-style: solid;
+                border-color: red;
+                padding: 12px 16px;
+                margin-left: 50px;
+                margin-right: 50px;
+                cursor: default;
+                border-radius: 10px;
+                background-color: aquamarine;
+                opacity: 0.5;
+                color: white;
+
+            }
+            
+            h1:hover {
+
+                background-color: rgb(126, 187, 167) ; transform: scale(1);
+                opacity: 100%;
+                padding: 10px;
+            }
+
+            p {
+                font-size: 20px;
+                font-style: normal;
+                text-align: center;
+                color: white;
+            }
+
+            p:hover {
+                background-color: aquamarine;
+                padding: 20px;
+                border-radius: 10px;
+                opacity: 0.6;
+            }
+
+            h2 {
+                font-size: 30px;
+                font-style: normal;
+                margin-top: 50px;
+                font-size: 3px;
+                opacity: 0.9;
+                color: white;
+            }
+
+            h2:hover {
+                background-color: aquamarine; transform: scale(1);
+                margin-left: 570px;
+                border-radius: 10px;
+                margin-right: 570px;
+                padding: 12px 16px;
+            }
+
+            h3:hover {
+                background-color: aquamarine; transform: scale(1);
+                margin-left: 555px;
+                margin-right: 555px;
+                border-radius: 10px;
+                opacity: 0.6;
+            }
+
+            .favorite {
+                margin-right: 190px;
+                margin-left: 100px;
+                font-style: normal;
+                font-family: normal;
+                position: relative;
+                color: black;
+                padding: 10px 10px;
+                font-size: 17px;
+                cursor: pointer;
+                text-align: left;
+                border-style: none;
+                background-color: aquamarine;
+                border-radius: 10px;
+                opacity: 0.6;
+            }
+
+            .favorite:hover {
+                background-color: aqua; transform: scale(1);
+                margin-left: 120px;
+                margin-right: 100px;
+                border-radius: 10px;
+                padding: 10px 10px;
+            }
+
+            .menu{
+                margin-left: 10px;
+                padding: 5px;
+                border-style: none;
+                background-color: aquamarine;
+                margin-right: 1175px;
+                opacity: 0.8;
+                border-radius: 10px;
+            }
+
+            .firsticon {
+                position: relative;
+                top: 100px;
+                margin-left: 30px;
+                border: 10px;
+            }
+
+            .img2{
+                width: 200px;
+                height: 200px;
+                border-style: solid;
+                border-color: rgb(14, 94, 168);
+                position: relative;
+                margin-left: 900px;
+                top: 80px;
+                border-radius: 5px;
+                margin-right: 150px;
+            }
+
+            .header{
+                position: relative;
+                bottom: 90px;
+                border-style: solid;
+                color: black;
+                background-color: aquamarine;
+                margin-left: 500px;
+                margin-right: 500px;
+                opacity: 0.7;
+                border-radius: 5px;
+                font-size: large;
+            }
+
+            .header:hover {
+                background-color: aqua; transform: scale(1);
+                margin-left: 510px;
+                border-radius: 10px;
+                margin-right: 510px;
+                padding: 5px 5px;
+            }
+            
+            .secondicon {
+                border-style: solid;
+                background-color: aqua;
+            }
+
+            .col1 {
+                border-style: none;
+                color: black;
+                background-color: rgb(219, 214, 214);
+                position: relative;
+                width: 23.33%;
+                float: left;
+                margin-left: 300px;
+                font-size: 12;
+                border-radius: 4px;
+                opacity: 0.8;
+                text-align: center;
+            }
+            
+            .col1:hover {
+                background-color: aquamarine; transform: scale(1);
+                border-radius: 10px;
+            }
+
+            .col2 {
+                border-style: none;
+                color: black;
+                background-color: rgb(219, 214, 214);
+                position: relative;
+                width: 23.33%;
+                float: right;
+                margin-right: 300px;
+                border-radius: 4px;
+                opacity: 0.8;
+            }
+
+            .col2.hover {
+                background-color: aquamarine; transform: scale(1);
+                border-radius: 10px;  
+            }
+
+            .menu2 {
+                margin-left: 50px;
+                position: relative;
+            }
+
+            .btn {
+                background-color: dodgerblue;
+                border: none;
+                color: white;
+                padding: 12px 16px;
+                font-size: 16px;
+                cursor: pointer;
+            }
+
+            .btn:hover {
+                background-color: royalblue;
+            }
+        </style>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <button class="btn" onclick="document.location='act4.html'"><i class="fa fa-bars"></i></button>&nbsp;&nbsp;
+
+        
+        <p class="favorite">
+            Madalas akong nanunuod ng kdrama kinagigiliwan dahil sa mga dala nitong mahahalagang impormasyon o balita. Kinagigiliwan din ddahil minsan nagbibigay ito ng kasiyahan o mga bagong kaalaman.
+            </p>
+            
+        <button class="btn" onclick="document.location='user.html'"><i class="fa fa-address-card"></i></button>&nbsp;&nbsp;
+
+            &nbsp;&nbsp;
+            <p class="favorite">
+            My Name is Rexelle A. Salera, 21 years old, I was born from Quezon City, In currently living on Blk 14 Lot 2 <b> Southville 8c San Isidro Rodriguez rizal. My birthday is March 31, 2001.</b>
+            <br />
+            now i am 2nd year at colegio de montalban on rodriguez rizal. I like
+        </p>
+        <br>
+        <br>
+        </body>
+        </html>
+        
+   *User
+   
+   <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <tittle> act4 </tittle>
+
+        
+        <style>
+            body{
+                background-image: url("bk.jpg");
+                background-repeat: no-repeat;
+                background-attachment: fixed;
+                background-size: cover;
+                opacity: 10px;
+            }
+
+            h1 {
+                border-style: solid;
+                border-color: red;
+                padding: 12px 16px;
+                margin-left: 50px;
+                margin-right: 50px;
+                cursor: default;
+                border-radius: 10px;
+                background-color: aquamarine;
+                opacity: 0.5;
+
+            }
+            
+            h1:hover {
+
+                background-color: rgb(126, 187, 167) ; transform: scale(1);
+                opacity: 100%;
+                padding: 10px;
+            }
+
+            p {
+                font-size: 20px;
+                font-style: normal;
+                text-align: center;
+            }
+
+            p:hover {
+                background-color: aquamarine;
+                padding: 20px;
+                border-radius: 10px;
+                opacity: 0.6;
+            }
+
+            h2 {
+                font-size: 30px;
+                font-style: normal;
+                margin-top: 50px;
+                font-size: 3px;
+                opacity: 0.9;
+            }
+
+            h2:hover {
+                background-color: aquamarine; transform: scale(1);
+                margin-left: 570px;
+                border-radius: 10px;
+                margin-right: 570px;
+                padding: 12px 16px;
+            }
+
+            h3:hover {
+                background-color: aquamarine; transform: scale(1);
+                margin-left: 555px;
+                margin-right: 555px;
+                border-radius: 10px;
+                opacity: 0.6;
+            }
+
+            .favorite {
+                margin-right: 100px;
+                margin-left: 100px;
+                font-style: normal;
+                font-family: normal;
+                position: relative;
+                color: black;
+                padding: 10px 10px;
+                font-size: 17px;
+                cursor: pointer;
+                text-align: left;
+                border-style: none;
+                background-color: aquamarine;
+                border-radius: 10px;
+                opacity: 0.6;
+            }
+
+            .favorite:hover {
+                background-color: aqua; transform: scale(1);
+                margin-left: 120px;
+                margin-right: 100px;
+                border-radius: 10px;
+                padding: 10px 10px;
+            }
+
+            .menu{
+                margin-left: 10px;
+                padding: 5px;
+                border-style: none;
+                background-color: aquamarine;
+                margin-right: 1175px;
+                opacity: 0.8;
+                border-radius: 10px;
+            }
+
+            .firsticon {
+                position: relative;
+                top: 100px;
+                margin-left: 30px;
+                border: 10px;
+            }
+
+            .img2{
+                width: 200px;
+                height: 200px;
+                border-style: solid;
+                border-color: rgb(14, 94, 168);
+                position: relative;
+                margin-left: 900px;
+                top: 80px;
+                border-radius: 5px;
+                margin-right: 150px
+            }
+
+            .header {
+                position: relative;
+                bottom: 90px;
+                border-style: solid;
+                color: black;
+                background-color: aquamarine;
+                margin-left: 500px;
+                margin-right: 500px;
+                opacity: 0.7;
+                border-radius: 5px;
+                font-size: large;
+            }
+            
+            .header:hover {
+                background-color: aqua; transform: scale(1);
+                margin-left: 510px;
+                border-radius: 10px;
+                margin-right: 510px;
+                padding: 5px 5px;
+            }
+
+            .secondicon {
+                border-style: solid;
+                background-color: aqua;
+            }
+
+            .col1 {
+                border-style: none;
+                color: black;
+                background-color: rgb(219, 214, 214);
+                position: relative;
+                width: 23.33%;
+                float: left;
+                margin-left: 300px;
+                font-size: 12;
+                border-radius: 4px;
+                opacity: 0.8;
+                text-align: center;
+            }
+
+            .col1:hover{
+                background-color: aquamarine; transform: scale(1);
+                border-radius: 10px;
+            }
+            
+            .col2 {
+                border-style: none;
+                color: black;
+                background-color: rgb(219, 214, 214);
+                position: relative;
+                width: 23.33%;
+                float: right;
+                margin-right: 300px;
+                border-radius: 4px;
+                opacity: 0.8;
+            }
+
+            .col2.hover {
+                background-color: aquamarine; transform: scale(1);
+                border-radius: 10px;  
+            }
+
+            .menu2 {
+                margin-left: 50px;
+                position: relative;
+            }
+
+            .btn {
+                background-color: dodgerblue;
+                border: none;
+                color: white;
+                padding: 12px 16px;
+                font-size: 16px;
+                cursor: pointer;
+            }
+
+            .btn:hover {
+                background-color: royalblue;
+            }
+        </style>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">  
+        </head>
+        <body>
+            <center>
+                <hr />
+                <h1> USER </h1>
+                <hr />
+                <link rel="stylesheet" href=""><img class="img2" src="Chock.jpg" />
+                <br />
+
+                <div class="header"> REXELLE A. SALERA </div>
+
+                <hr />
+                </BR>
+                </br>
+                </br>
+
+                <div class="header" > I LOVE COFFEE </div>
+
+                <div class="containter">
+                <br>
+                <br>
+                <br>
+
+                <div class="col1"> Place of Birth </div>
+                <div class="col2"> Quezon City </div>
+                <br>
+                <br> 
+                <div class="col1"> Civil Status </div>
+                <div class="col2"> Single </div>
+                <br>
+                <br> 
+                <div class="col1"> Religion </div>
+                <div class="col2"> Catholic </div>
+                <br>
+                <br> 
+                <div class="col1"> Citizenship </div>
+                <div class="col2"> Filipino </div>
+                <br>
+                <br> 
+                <div class="col1"> Height </div>
+                <div class="col2"> 5.11 feet </div>
+                <br>
+                <br> 
+                <br>
+                <br>
+                </center>
+                <div>
+                    <center>
+                        <button class="btn" onclick="document.location='home.html'"><i class="fa fa-home"></i></button>&nbsp;&nbsp;          
+                    </center>
+                    </div>
+                    </body>
+                    </html>
+                    
+    *Act 5
+    <!DOCTYPE html>
+<html>
+    <head>
+        <style> 
+            body {
+                background-image:url('IT.jpg');
+                background-repeat: no-repeat;
+                background-attachment: fixed;
+                background-size: cover;
+            }
+            mark {
+                background-color: white;
+            }
+
+            </style>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+            </head>
+            <body>
+                <center>
+                    <h1 border-style: solid; border-color:gray><mark> MY FIFTH ACTIVITY </mark></h1>
+                    <hr>
+                    <p><mark> Good Day! Let's try <b> THE HTML PRACTICE </mark><br><p>
+                    <hr>
+                    <h3 style="color: red;"> Twitter </u></h3>
+                    <a href="https://twitter.com/"><img src="download.png" alt="https://twitter.com/" width="200" height="200"></a>
+                    <p style="color: red;"><mark>  Ito ay isang online news at social networking service kung saan ang mga user ay nag-popost at nag-iinterak gamit ang mga mensahe.</p></mark>
+                    
+                    <h3 style="color: yellow;"> Youtube </u></h3>
+                    <a href="https://www.youtube.com/"><img src="download1.png" alt="https://www.youtube.com/" width="200" height="200"></a>
+                    <p style="color: yellow;"><mark> Ang kahalagahan ng youtube ay ito ang nagbibigay kasiyahan sa tao, napapanood natin ang mga gusto natin panoorin at napapanood din natin ang idol natin mga vlogger at gamer.</p></mark>
+
+                    <h3 style="color: blue;"> Google </u></h3>
+                    <a href="https://www.google.com/"><img src="download2.png" alt="https://www.google.com/" width="200" height="200"></a>
+                    <p style="color: blue;"><mark> Mahalaga ito sa mga estudyante sapagkat napapadali nito ang pagsasaliksik ng mga datos at impormasyon na kinakailangan nila para sa kanilang aralin.</p></mark>
+
+                    <h3 style="color: pink;"> Facebook </u></h3>
+                    <a href="https://www.facebook.com/"><img src="download3.png" alt="https://www.facebook.com/" width="200" height="200"></a>
+                    <p style="color: pink;"><mark> Sa pamamagitan ng facebook, nakakahanap at nakakalikha rin tayo ng mga bagong tao na siyang nagiging bagong kaibigan natin sa paglipas ng panahon. Mabilis ang pagshare at pagpost ng mga tanong at damdamin na mayroon tayo.</p></mark>
+                    
+                    <h3 style="color: green;"> Gmail </u></h3>
+                    <a href="https://gmail.com/"><img src="download4.png" alt="https://gmail.com/" width="200" height="200"></a>
+                    <p style="color: green;"><mark> Ito ay free service provided galing sa GOOGLE sa kung sino man mayroon nito ay maaring makapag send at makatanggap ng mensahe sa pamamagitan ng internet.</p></mark>
+
+                    <button class="btn" onclick="document.location='menu.html'"><i class="fa fa-home">Home</1></button>
+                    </center>
+                    </body>
+                    </html>
+  *menu
+  
+  <!DOCTYPE html>
+<html lang="en">
+        <tittle> act5 </tittle>
+</head>
+        <center>
+            <hr />
+            <h1> MENU </h1>
+            <hr />
+        </center>
+
+        <style>
+            body{
+                background-image: url("bk.jpg");
+                background-repeat: no-repeat;
+                background-attachment: fixed;
+                background-size: cover;
+                opacity: 10px;
+            }
+
+            h1 {
+                border-style: solid;
+                border-color: red;
+                padding: 12px 16px;
+                margin-left: 50px;
+                margin-right: 50px;
+                cursor: default;
+                border-radius: 10px;
+                background-color: aquamarine;
+                opacity: 0.5;
+                color: white;
+
+            }
+            
+            h1:hover {
+
+                background-color: rgb(126, 187, 167) ; transform: scale(1);
+                opacity: 100%;
+                padding: 10px;
+            }
+
+            p {
+                font-size: 20px;
+                font-style: normal;
+                text-align: center;
+                color: white;
+            }
+
+            p:hover {
+                background-color: aquamarine;
+                padding: 20px;
+                border-radius: 10px;
+                opacity: 0.6;
+            }
+
+            h2 {
+                font-size: 30px;
+                font-style: normal;
+                margin-top: 50px;
+                font-size: 3px;
+                opacity: 0.9;
+                color: white;
+            }
+
+            h2:hover {
+                background-color: aquamarine; transform: scale(1);
+                margin-left: 570px;
+                border-radius: 10px;
+                margin-right: 570px;
+                padding: 12px 16px;
+            }
+
+            h3:hover {
+                background-color: aquamarine; transform: scale(1);
+                margin-left: 555px;
+                margin-right: 555px;
+                border-radius: 10px;
+                opacity: 0.6;
+            }
+
+            .favorite {
+                margin-right: 190px;
+                margin-left: 100px;
+                font-style: normal;
+                font-family: normal;
+                position: relative;
+                color: black;
+                padding: 10px 10px;
+                font-size: 17px;
+                cursor: pointer;
+                text-align: left;
+                border-style: none;
+                background-color: aquamarine;
+                border-radius: 10px;
+                opacity: 0.6;
+            }
+
+            .favorite:hover {
+                background-color: aqua; transform: scale(1);
+                margin-left: 120px;
+                margin-right: 100px;
+                border-radius: 10px;
+                padding: 10px 10px;
+            }
+
+            .menu{
+                margin-left: 10px;
+                padding: 5px;
+                border-style: none;
+                background-color: aquamarine;
+                margin-right: 1175px;
+                opacity: 0.8;
+                border-radius: 10px;
+            }
+
+            .firsticon {
+                position: relative;
+                top: 100px;
+                margin-left: 30px;
+                border: 10px;
+            }
+
+            .img2{
+                width: 200px;
+                height: 200px;
+                border-style: solid;
+                border-color: rgb(14, 94, 168);
+                position: relative;
+                margin-left: 900px;
+                top: 80px;
+                border-radius: 5px;
+                margin-right: 150px;
+            }
+
+            .header{
+                position: relative;
+                bottom: 90px;
+                border-style: solid;
+                color: black;
+                background-color: aquamarine;
+                margin-left: 500px;
+                margin-right: 500px;
+                opacity: 0.7;
+                border-radius: 5px;
+                font-size: large;
+            }
+
+            .header:hover {
+                background-color: aqua; transform: scale(1);
+                margin-left: 510px;
+                border-radius: 10px;
+                margin-right: 510px;
+                padding: 5px 5px;
+            }
+            
+            .secondicon {
+                border-style: solid;
+                background-color: aqua;
+            }
+
+            .col1 {
+                border-style: none;
+                color: black;
+                background-color: rgb(219, 214, 214);
+                position: relative;
+                width: 23.33%;
+                float: left;
+                margin-left: 300px;
+                font-size: 12;
+                border-radius: 4px;
+                opacity: 0.8;
+                text-align: center;
+            }
+            
+            .col1:hover {
+                background-color: aquamarine; transform: scale(1);
+                border-radius: 10px;
+            }
+
+            .col2 {
+                border-style: none;
+                color: black;
+                background-color: rgb(219, 214, 214);
+                position: relative;
+                width: 23.33%;
+                float: right;
+                margin-right: 300px;
+                border-radius: 4px;
+                opacity: 0.8;
+            }
+
+            .col2.hover {
+                background-color: aquamarine; transform: scale(1);
+                border-radius: 10px;  
+            }
+
+            .menu2 {
+                margin-left: 50px;
+                position: relative;
+            }
+
+            .btn {
+                background-color: dodgerblue;
+                border: none;
+                color: white;
+                padding: 12px 16px;
+                font-size: 16px;
+                cursor: pointer;
+            }
+
+            .btn:hover {
+                background-color: royalblue;
+            }
+        </style>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <button class="btn" onclick="document.location='act5.html'"><i class="fa fa-bars"></i></button>&nbsp;&nbsp;
+
+        
+        <p class="favorite">
+            Madalas akong nanunuod ng kdrama kinagigiliwan dahil sa mga dala nitong mahahalagang impormasyon o balita. Kinagigiliwan din ddahil minsan nagbibigay ito ng kasiyahan o mga bagong kaalaman.
+            </p>
+            
+        <button class="btn" onclick="document.location='user.html'"><i class="fa fa-address-card"></i></button>&nbsp;&nbsp;
+
+            &nbsp;&nbsp;
+            <p class="favorite">
+            My Name is Rexelle A. Salera, 21 years old, I was born from Quezon City, In currently living on Blk 14 Lot 2 <b> Southville 8c San Isidro Rodriguez rizal. My birthday is March 31, 2001.</b>
+            <br />
+            now i am 2nd year at colegio de montalban on rodriguez rizal. I like
+        </p>
+    
+
+        <button class="btn" onclick="document.location='Untitled-3.html'"><i class="fa fa-address-card"></i></button>&nbsp;&nbsp;
+
+        &nbsp;&nbsp;
+        <p class="favorite">
+       This is my family
+        </p>
+        <br>
+        <br>
+        </body>
+        </html>
+        
+   *User
+   
+   <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <tittle> act5 </tittle>
+
+        
+        <style>
+            body{
+                background-image: url("bk.jpg");
+                background-repeat: no-repeat;
+                background-attachment: fixed;
+                background-size: cover;
+                opacity: 10px;
+            }
+
+            h1 {
+                border-style: solid;
+                border-color: red;
+                padding: 12px 16px;
+                margin-left: 50px;
+                margin-right: 50px;
+                cursor: default;
+                border-radius: 10px;
+                background-color: aquamarine;
+                opacity: 0.5;
+
+            }
+            
+            h1:hover {
+
+                background-color: rgb(126, 187, 167) ; transform: scale(1);
+                opacity: 100%;
+                padding: 10px;
+            }
+
+            p {
+                font-size: 20px;
+                font-style: normal;
+                text-align: center;
+            }
+
+            p:hover {
+                background-color: aquamarine;
+                padding: 20px;
+                border-radius: 10px;
+                opacity: 0.6;
+            }
+
+            h2 {
+                font-size: 30px;
+                font-style: normal;
+                margin-top: 50px;
+                font-size: 3px;
+                opacity: 0.9;
+            }
+
+            h2:hover {
+                background-color: aquamarine; transform: scale(1);
+                margin-left: 570px;
+                border-radius: 10px;
+                margin-right: 570px;
+                padding: 12px 16px;
+            }
+
+            h3:hover {
+                background-color: aquamarine; transform: scale(1);
+                margin-left: 555px;
+                margin-right: 555px;
+                border-radius: 10px;
+                opacity: 0.6;
+            }
+
+            .favorite {
+                margin-right: 100px;
+                margin-left: 100px;
+                font-style: normal;
+                font-family: normal;
+                position: relative;
+                color: black;
+                padding: 10px 10px;
+                font-size: 17px;
+                cursor: pointer;
+                text-align: left;
+                border-style: none;
+                background-color: aquamarine;
+                border-radius: 10px;
+                opacity: 0.6;
+            }
+
+            .favorite:hover {
+                background-color: aqua; transform: scale(1);
+                margin-left: 120px;
+                margin-right: 100px;
+                border-radius: 10px;
+                padding: 10px 10px;
+            }
+
+            .menu{
+                margin-left: 10px;
+                padding: 5px;
+                border-style: none;
+                background-color: aquamarine;
+                margin-right: 1175px;
+                opacity: 0.8;
+                border-radius: 10px;
+            }
+
+            .firsticon {
+                position: relative;
+                top: 100px;
+                margin-left: 30px;
+                border: 10px;
+            }
+
+            .img2{
+                width: 200px;
+                height: 200px;
+                border-style: solid;
+                border-color: rgb(14, 94, 168);
+                position: relative;
+                margin-left: 900px;
+                top: 80px;
+                border-radius: 5px;
+                margin-right: 150px
+            }
+
+            .header {
+                position: relative;
+                bottom: 90px;
+                border-style: solid;
+                color: black;
+                background-color: aquamarine;
+                margin-left: 500px;
+                margin-right: 500px;
+                opacity: 0.7;
+                border-radius: 5px;
+                font-size: large;
+            }
+            
+            .header:hover {
+                background-color: aqua; transform: scale(1);
+                margin-left: 510px;
+                border-radius: 10px;
+                margin-right: 510px;
+                padding: 5px 5px;
+            }
+
+            .secondicon {
+                border-style: solid;
+                background-color: aqua;
+            }
+
+            .col1 {
+                border-style: none;
+                color: black;
+                background-color: rgb(219, 214, 214);
+                position: relative;
+                width: 23.33%;
+                float: left;
+                margin-left: 300px;
+                font-size: 12;
+                border-radius: 4px;
+                opacity: 0.8;
+                text-align: center;
+            }
+
+            .col1:hover{
+                background-color: aquamarine; transform: scale(1);
+                border-radius: 10px;
+            }
+            
+            .col2 {
+                border-style: none;
+                color: black;
+                background-color: rgb(219, 214, 214);
+                position: relative;
+                width: 23.33%;
+                float: right;
+                margin-right: 300px;
+                border-radius: 4px;
+                opacity: 0.8;
+            }
+
+            .col2.hover {
+                background-color: aquamarine; transform: scale(1);
+                border-radius: 10px;  
+            }
+
+            .menu2 {
+                margin-left: 50px;
+                position: relative;
+            }
+
+            .btn {
+                background-color: dodgerblue;
+                border: none;
+                color: white;
+                padding: 12px 16px;
+                font-size: 16px;
+                cursor: pointer;
+            }
+
+            .btn:hover {
+                background-color: royalblue;
+            }
+        </style>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">  
+        </head>
+        <body>
+            <center>
+                <hr />
+                <h1> USER </h1>
+                <hr />
+                <link rel="stylesheet" href=""><img class="img2" src="Chock.jpg" />
+                <br />
+
+                <div class="header"> REXELLE A. SALERA </div>
+
+                <hr />
+                </BR>
+                </br>
+                </br>
+
+                <div class="header" > I LOVE COFFEE </div>
+
+                <div class="containter">
+                <br>
+                <br>
+                <br>
+
+                <div class="col1"> Place of Birth </div>
+                <div class="col2"> Quezon City </div>
+                <br>
+                <br> 
+                <div class="col1"> Civil Status </div>
+                <div class="col2"> Single </div>
+                <br>
+                <br> 
+                <div class="col1"> Religion </div>
+                <div class="col2"> Catholic </div>
+                <br>
+                <br> 
+                <div class="col1"> Citizenship </div>
+                <div class="col2"> Filipino </div>
+                <br>
+                <br> 
+                <div class="col1"> Height </div>
+                <div class="col2"> 5.11 feet </div>
+                <br>
+                <br> 
+                <br>
+                <br>
+                </center>
+                <div>
+                    <center>
+                        <button class="btn" onclick="document.location='menu.html'"><i class="fa fa-home"></i></button>&nbsp;&nbsp;          
+                    </center>
+                    </div>
+                    </body>
+                    </html>
+        
+  *Family
+  
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Act 5</title>
+    <link rel="stylesheet" href="style2.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    <center>
+        <h1> My Family </h1>
+    </center>
+        <h4>
+            <img src="Chock.jpg" style="width:90px;height:90px;border-style: solid;border-color:  olivedrab; float:right">
+            Name: Rexelle Salera<br>
+            Age: 21 yrs old<br>
+            Address: Blk 14 Lot 2 Southville 8c<br>
+            School: Colegio De Montalban<br>
+            Status: Single<br>
+            Religion: Catholic<br>
+            <br>
+            <center>
+            <button class="btn" onclick="document.location='1.html'"><i class="fa fa-bars"></i> See more </button>
+            </center>
+            </h4>
+            <h4>
+                <img src="papa.jpg" style="width:90px;height:90px;border-style: solid;border-color:  olivedrab; float:right">
+                Name: Reynaldo Salera<br>
+                Age: 48 yrs old<br>
+                Address: Blk 14 Lot 2 Southville 8c<br>
+                Status: Married<br>
+                Religion: Catholic<br>
+                <br>
+                <center>
+                    <button class="btn" onclick="document.location='2.html'"><i class="fa fa-bars"></i> See more </button>
+                </center>
+            </h4>
+            <h4>
+                <img src="mama.jpg" style="width:90px;height:90px;border-style: solid;border-color:  olivedrab; float:right">
+                Name: Cherilyn Salera<br>
+                Age: 49 yrs old<br>
+                Address: Blk 14 Lot 2 Southville 8c<br>
+                Status: Married<br>
+                Religion: Catholic<br>
+                <br>
+                <center>
+                    <button class="btn" onclick="document.location='3.html'"><i class="fa fa-bars"></i> See more </button>
+                </center>
+            </h4>
+            <center>>
+                <button class="btn" onclick="document.location='menu.html'"><i class="fa fa-bars"></i> HOME </button>
+            </center>
+            </body>
+            </html>
+            
+   *family 1
+   
+   <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Act 5</title>
+    <link rel="stylesheet" href="style2.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    <center>
+        <h1> USER INFORMATION  </h1>
+        <br>
+        <br>
+        <h2>__________Rexelle Salera__________</h2>
+        <h3>________________Me________________</h3>
+        <img src="Chock.jpg" style="width:210px;height:210px;border-style: solid;border-color: olivedrab; float:right">
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+
+    <div class="container">
+        <br>
+        <br>
+        <br>
+
+        <div class="col2"> Place of Birth:</div>
+        <div class="col1">Quezon City</div>
+        <br>
+        <br>
+        <div class="col2">Civil Status:</div>
+        <div class="col1">Single</div>
+        <br>
+        <br>
+        <div class="col2">Religion:</div>
+        <div class="col1">Catholic</div>
+        <br>
+        <br>
+        <div class="col2">Citizenship:</div>
+        <div class="col1">Filipino</div>
+        <br>
+        <br>
+        <div class="col2">Height:</div>
+        <div class="col1">5.9</div>
+        <br>
+        <br>
+        <br>
+        <br>
+    </center>
+    <div>
+
+        <center>
+    <button class="btn" onclick="document.location='Untitled-3.html'"><i class="fa fa-bars"></i> Menu</button>&nbsp;&nbsp;
+        </center>
+    </body>
+</html>
+
+   *Family 2
+   
+   <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Act 5</title>
+    <link rel="stylesheet" href="style2.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    <center>
+        <h1> USER INFORMATION  </h1>
+        <br>
+        <br>
+        <h2>__________Reynaldo Salera__________</h2>
+        <h3>_____________My Father____________</h3>
+        <img src="papa.jpg" style="width:210px;height:210px;border-style: solid;border-color: olivedrab; float:right">
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+
+    <div class="container">
+        <br>
+        <br>
+        <br>
+
+        <div class="col2"> Place of Birth:</div>
+        <div class="col1">Quezon City</div>
+        <br>
+        <br>
+        <div class="col2">Civil Status:</div>
+        <div class="col1">Married</div>
+        <br>
+        <br>
+        <div class="col2">Religion:</div>
+        <div class="col1">Catholic</div>
+        <br>
+        <br>
+        <div class="col2">Citizenship:</div>
+        <div class="col1">Filipino</div>
+        <br>
+        <br>
+        <div class="col2">Height:</div>
+        <div class="col1">5.5</div>
+        <br>
+        <br>
+        <br>
+        <br>
+    </center>
+    <div>
+
+        <center>
+    <button class="btn" onclick="document.location='Untitled-3.html'"><i class="fa fa-bars"></i> Menu</button>&nbsp;&nbsp;
+        </center>
+    </body>
+</html>
+
+   *Family 3
+   
+   <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Act 5</title>
+    <link rel="stylesheet" href="style2.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    <center>
+        <h1> USER INFORMATION  </h1>
+        <br>
+        <br>
+        <h2>__________Cherilyn Salera__________</h2>
+        <h3>_____________My Mother____________</h3>
+        <img src="mama.jpg" style="width:210px;height:210px;border-style: solid;border-color: olivedrab; float:right">>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+
+    <div class="container">
+        <br>
+        <br>
+        <br>
+
+        <div class="col2"> Place of Birth:</div>
+        <div class="col1">Quezon City</div>
+        <br>
+        <br>
+        <div class="col2">Civil Status:</div>
+        <div class="col1">Married</div>
+        <br>
+        <br>
+        <div class="col2">Religion:</div>
+        <div class="col1">Catholic</div>
+        <br>
+        <br>
+        <div class="col2">Citizenship:</div>
+        <div class="col1">Filipino</div>
+        <br>
+        <br>
+        <div class="col2">Height:</div>
+        <div class="col1">5.4</div>
+        <br>
+        <br>
+        <br>
+        <br>
+    </center>
+    <div>
+
+        <center>
+    <button class="btn" onclick="document.location='Untitled-3.html'"><i class="fa fa-bars"></i> Menu</button>&nbsp;&nbsp;
+        </center>
+    </body>
+</html>
+
+  *style2.css
+  
+  body {
+    background-image: url('bk.jpg');
+    background-attachment: fixed;
+    background-position: 100% 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.btn {
+    background-color: dodgerblue;
+    border: none;
+    color: white;
+    padding: 12px 16px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.btn:hover {
+    background-color: royalblue;
+}
+#img {
+    position: relative;
+    top: -1px;
+    left: -1px;
+}
+form{
+    position: relative;
+    top: 50px;
+    left: 100px;
+}
+h1 {
+    color: white;
+    border-style: solid;
+    border-color: yellow;
+    background-color: pink;
+}
+h4 {
+    color: white;
+    border-style: solid;
+    border-color: yellow;
+    background-color: pink;
+    position: relative;
+    top: -1px;
+    left: -1px;
+}
+h2 {
+    color: white;
+    border-style: solid;
+    border-color: yellow;
+    background-color: pink;
+}
+h3{
+    color: white;
+    border-style: solid;
+    border-color: yellow;
+    background-color: pink;
+}
+img {
+    border-radius: 10%;
+}
+                    
+                    
